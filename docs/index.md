@@ -8,7 +8,7 @@ I am a skilled Tech Lead with over a decade of experience in mentoring, architec
 
 ## Skills matrix
 | Area | Description | Experience |
-| -- | -- | -- |
+| ---- | ----------- | ---------- |
 | Cloud computing | Azure, AWS, queues/topics, microservices, CQRS, event sourcing, concurrency | 10+ years |
 | Architecture | Distributed service design, event driven architectures, integration patterns, continuous integration/delivery, functional programming | 10+ years |
 | Security | Cyber security, Identity management, OAuth2, OpenID Connect, JWT tokens | 8 years |
