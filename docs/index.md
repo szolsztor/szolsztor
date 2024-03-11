@@ -7,6 +7,7 @@ layout: home
 I am a skilled Tech Lead with over a decade of experience in mentoring, architectural design, and senior development roles. I excel in researching and implementing cutting-edge technologies, improving scalability, security, and performance in all projects. My specialization lies in Distributed Architectures and Event-Driven Design, showcased through my Ph.D. research and journal publications in Distributed Domain-Driven Design, including CQRS.
 
 ## Skills matrix
+
 | Area | Description | Experience |
 | ---- | ----------- | ---------- |
 | Cloud computing | Azure, AWS, queues/topics, microservices, CQRS, event sourcing, concurrency | 10+ years |
