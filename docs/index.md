@@ -61,3 +61,16 @@ I designed and developed a nutrient planning system aligned with government stan
 Built to government standards, RB209, used nationally to ensure safe and efficient yields of crops across the UK, C#, AspNetCore, WebAPI, RESTful.
 
 ## Education
+
+### Postgraduate Doctorate Degree (Ph.D.)
+
+August 2007 – December 2011
+University of Wales
+
+### Collaborative Research
+August 2009 – December 2009
+Budapest University of Technology & Economics
+
+### Bachelor’s Degree (BSc)
+August 2002 – December 2005
+University of Wales
