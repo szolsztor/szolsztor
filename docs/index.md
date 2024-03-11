@@ -15,6 +15,7 @@ I am a skilled Tech Lead with over a decade of experience in mentoring, architec
 | Security | Cyber security, Identity management, OAuth2, OpenID Connect, JWT tokens | 8 years |
 | Leadership | Mentoring, Pairing, Training, Code Review | 10+ years |
 | Technologies | C#, VB.NET, Visual Studio, Rider, Design Patterns, Agile and LEAN methodologies, Azure DevOps, GitHub, ORMs (Entity Framework), LINQ, Unit Testing (xUnit, NSubstitute, Autofixture), MVC, Razor Pages, Web API, SignalR and Blazor. | 10+ years |
+{: class="table"}
 
 ## Projects
 
